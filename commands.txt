@@ -1,0 +1,4 @@
+python3 -m venv project (creating a virtual environment)
+source project/bin/activate (activating virtual environment)
+deactivate ( venv)
+pip list # visualize contents of pip

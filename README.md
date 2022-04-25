@@ -83,9 +83,3 @@ ___
     <div>
         <h5> <a href='..'> Mr. A </a> </h5> <img src="images/cat.0.jpg" height= 7% width= 7%>
 <div>
-    <h5> <a href='.'> Mr. B </a> </h5> <img src="images/cat.0.jpg" height= 7% width= 7%>
-    
-<div>
-    <h5> <a href='.'> Mm. K </a> </h5> <img src="images/cat.0.jpg" height= 7% width= 7%>
-    
-</div>
